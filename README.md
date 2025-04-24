@@ -21,7 +21,8 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-📈 Data Lineage Overview
+## 📈 Data Lineage Overview
+
 This project follows a structured, multi-layered data architecture to ensure clean, reliable, and traceable data processing:
 
 Sources: Raw data is ingested from CRM and ERP systems, including customer info, sales data, product details, and location information.
