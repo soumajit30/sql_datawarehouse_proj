@@ -35,6 +35,11 @@ Gold Layer: The most refined layer, containing business-ready data models such a
 
 ![Data Architecture](docs/data_lineage.png)
 
+##👥 Acknowledgment
+
+Special thanks to [Baraa Khateeb](https://www.linkedin.com/in/baraa-khatib-salkini/)
+, Data Architect at Mercedes-Benz, whose insights on modern data architectures and best practices (shared through his YouTube channel) greatly influenced the design and implementation of this project.
+
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
