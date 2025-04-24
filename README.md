@@ -21,7 +21,18 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
+📈 Data Lineage Overview
+This project follows a structured, multi-layered data architecture to ensure clean, reliable, and traceable data processing:
 
+Sources: Raw data is ingested from CRM and ERP systems, including customer info, sales data, product details, and location information.
+
+Bronze Layer: This layer stores the raw, untransformed data as-is from the source systems. Tables like crm_cust_info, erp_loc_a101, and others serve as the foundational data layer.
+
+Silver Layer: Data is cleaned, validated, and lightly transformed in this layer. It represents trusted datasets ready for analysis or further modeling. Silver tables maintain a 1:1 relationship with Bronze but with better quality and structure.
+
+Gold Layer: The most refined layer, containing business-ready data models such as fact_sales, dim_customers, and dim_products. These are derived by combining and transforming relevant Silver layer tables to support reporting and analytics.
+
+![Data Architecture](docs/data_lineage.png)
 
 ## 🛡️ License
 
