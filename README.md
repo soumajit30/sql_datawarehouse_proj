@@ -46,7 +46,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi, I'm Soumajit Mondal. I'm a tech enthusiast with an entrepreneurial edge. I'm currently pivoting into Data Analytics to build meaningful, scalable solutions that solve real-world problems.
+Hi, I'm <a href="https://www.linkedin.com/in/soumajit-mondal-49011a19b/" target="_blank">Soumajit Mondal</a>. I'm a tech enthusiast with an entrepreneurial edge. I'm currently pivoting into Data Analytics to build meaningful, scalable solutions that solve real-world problems.
 With a background in business strategy, team leadership, and client relations from my time at Knackdits, I bring a unique, people-centric approach to technical challenges. I’m pursuing a Bachelor’s in Computer Applications (BCA), sharpening my software development and database management skills while aligning my passion for technology with data-driven decision-making.
 
 I'm especially interested in the intersection of business insights and modern tech, and I strive to bridge that gap by combining analytical thinking with creative problem-solving.
