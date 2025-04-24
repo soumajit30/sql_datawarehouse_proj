@@ -37,7 +37,7 @@ Gold Layer: The most refined layer, containing business-ready data models such a
 
 ##👥 Acknowledgment
 
-Special thanks to [Baraa Khateeb](https://www.linkedin.com/in/baraa-khatib-salkini/)
+Special thanks to <a href="https://www.linkedin.com/in/baraa-khatib-salkini/" target="_blank">Baraa Khateeb</a>
 , Data Architect at Mercedes-Benz, whose insights on modern data architectures and best practices (shared through his YouTube channel) greatly influenced the design and implementation of this project.
 
 ## 🛡️ License
